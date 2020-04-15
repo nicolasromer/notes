@@ -1,40 +1,38 @@
-# How do you learn something no one can teach you?
+# Unstructured Learning
 
-Whatever success I’ve had in my career, I attribute almost entirely to my aptitude for unstructured learning. This is the kind of learning required when delving into a cutting-edge field, navigating a new job, or creating anything genuinely new. Notably, it’s the polar opposite of what is taught in schools and what most people call “education.”
+The kind of learning required when delving into a cutting-edge field, navigating a new job, or creating anything genuinely new. It’s the polar opposite of what is taught in schools and known as “education.”
 
-In structured learning (like in school), there are exercises you can follow, teachers who will guide you, and a well-trodden path from A to Z. The hard part is just showing up to do the work everyday.
+In structured learning there are exercises you can follow, teachers who will guide you, and a well-trodden path from A to Z. The hard part is just showing up to do the work everyday.
 
 In the real world, there’s no textbook or curriculum. There’s no way to practice. There’s no source of continuous feedback. There are no teachers — it’s just you and whoever you can convince to help you.
 
-So how do you learn something no one can teach you? How do you become a world-class expert on something few people understand?
+Unstructured learning requires wandering. You must poke around on your own, use trial and error, search, explore, stumble, and discover. The prescription of “10,000 hours and deliberate practice” isn’t actionable when trying to learn something that no one knows how to do.
 
-Unstructured learning requires wandering. You must poke around on your own, use trial and error, search, explore, stumble, and discover. The usual Gladwellian prescription of “10,000 hours and deliberate practice” isn’t actionable when trying to learn something that no one knows how to do.
-
-*But this is the only kind of learning that the world cares about.*
+**Unstructured learning is the only kind that the world cares about.**
 
 Naval Ravikant once said:
-
 > “The world rewards you for creating things it doesn’t know how to get for itself.”
-If there’s a structured approach to learning a domain, you can bet the world has no need for your ingenuity: it can breed experts on its own. But as long as it can’t, the world will handsomely reward those who can conquer that domain.
 
-Most people suck at unstructured learning. But you can improve at it. Here are five principles that would help most people get better at unstructured learning.
+If there’s a structured approach to learning a domain, the world has no need for your ingenuity: it can breed experts on its own. But as long as it can’t, the world will handsomely reward those who can conquer that domain.
 
-1. Choose to look stupid.
+## 1. Choose to look stupid.
+
 Stop trying not to look stupid.
-Stop trying not to look stupid.
-Most people start off by trying not to look dumb, feigning understanding, and hope their fakery will tide them over while they gradually learn. Here’s the problem: when you’re faking, most of what you learn is just how to fake better.
+**Stop trying not to look stupid.**
 
-It’s human instinct to hide your ignorance. You have to fight this instinct. You should instead look stupid up front. You have to actively choose to reveal your ignorance.
+Most people start off by trying not to look dumb, feigning understanding, and hope their fakery will tide them over while they gradually learn. **When you’re faking, most of what you learn is just how to fake better**.
 
-But what about “fake it till you make it”? I’m the first person to admit, faking it is absolutely crucial for getting in the door. But once you’re in, you need to cut the faking it and focus on making it.
+You must Fight the human instinct to hide your ignorance. You have to actively choose to reveal your ignorance and "look stupid".
 
-Be honest about the limits of your knowledge. *Ask basic, obvious questions, over and over again*. Repeat things back and summarize them, even if incorrectly. Explain things you just learned to people again and again, even when you’re wrong. Take notes as often as you can, even when it seems like you shouldn’t. Pull smart people aside and pepper them with your questions after everyone else has left.
+Hiring practices are such that only confident knowledge is rewarded. A certain amount of pretending is necessary for getting in. Once in though, drop the facade of confidence and focus on revealing everything you don't know.
+
+Be honest about the limits of your knowledge. **Ask basic, obvious questions, over and over again**. Repeat things back and summarize them, even if incorrectly. Explain things you just learned to people again and again, even when you’re wrong. Take notes as often as you can, even when it seems like you shouldn’t. Pull smart people aside and pepper them with your questions after everyone else has left.
 
 This is what it looks like to fight for your own learning. All the best learners do this, and people respect them for it.
 
-If you’re learning a new domain or are starting a new job and you don’t worry people might see you as stupid, you’re not being aggressive enough with your learning.
+**If you’re learning a new domain or are starting a new job and you don’t worry people might see you as stupid, you’re not being aggressive enough with your learning.**
 
-2. Ask the third question.
+## 2. Ask the third question.
 In Molière’s play The Imaginary Invalid, a patient asks a medical student, “why does opium put people to sleep?”
 
 The medical student replies: “because, as doctors have learned, opium contains a dormitive principle.” Just about anyone would ask the second question: “what the hell is a dormitive principle?”
@@ -45,34 +43,26 @@ Most people give up here. Unable to grasp an opaque response, they assume they d
 
 But some people — those who are determined to learn — ask the third question. “I don’t get it. It contains a dormitive principle because it puts people to sleep? Isn’t that a tautology?”
 
-Of course, the dormitive principle is meant to be a joke. But you can imagine a situation that isn’t so obvious. What if the subject were about some novel scientific study? Or why all your company’s widgets are imported from China? Or why the team is hiding sales numbers from the boss? Would you ask the third question — would you insist on understanding?
-
-There is a strong social pressure here to shut up. That if you don’t understand it, maybe you don’t deserve to.
+**There is a strong social pressure here to shut up**. That if you don’t understand it, maybe you don’t deserve to.
 
 Most people stay silent.
 
 You have to fight this. You have to speak up and fight for your knowledge, even if it means looking stupid or trampling on a norm. It’s hard! But over the course of your life, the learning will pay for all the little social costs you incur. And more often than not, you’re not the only one who doesn’t get it, and others will profit from your courage.
 
-This is how I first learned to play poker at the age of 16 and became a world-class poker player within a couple of years. Whenever I didn’t get something, I’d argue, rebut, plead for people to explain it to me so I could understand. *I refused to not get it.* Over many years of debating hand analysis and poker theory, this stubbornness led to me becoming a top poker player (and a pain in the ass to those who’d talk poker with me).
-
 Respect the people who slow down the class, who ask the third question. Because asking the third question requires courage. It requires entitlement, in the best sense of that word.
 
 Remember that learning is sacred, and everyone deserves it. That includes you.
 
-3. Immerse yourself.
+## 3. Immerse yourself.
 Many people want to learn French. A few will get fed up enough with themselves to do something about it. They might pay for an online course, hire a tutor, try Duolingo, buy a grammar book, switch their phone menus to Français, all the usual things you’re supposed to do to learn French.
 
-But there’s a shortcut, and it’s the one thing most people will never think to do: move to France.
+But there’s a shortcut: move to France.
 
-Of course, uprooting your life and moving to a new country is a ridiculous thing to do just to learn a language. But you have to admit, being immersed in France would teach you French much better than a textbook. It comes at a high cost, but immersion is the highest bang for the buck you can get when it comes to learning.
+Of course, uprooting your life and moving to a new country is tough. It is stressful. Your brain needs stakes, and it needs to be immersed in enough raw information to extract patterns. Your job is to bring it to water. Your brain can handle the drinking.
 
-You see, your brain was designed over millennia of evolution to soak up statistical patterns from its environment — whatever it needs to survive, communicate, and ascend a social hierarchy. But your brain needs stakes, and it needs to be immersed in enough raw information to extract patterns. Your job is to bring it to water. Your brain can handle the drinking.
+Immersed yourself in a world you don't understand. Keep pulling at the threads and eventually the knot will come apart and you'll see things clearly.
 
-This is how I made my way into the blockchain world. I immersed myself in a world I didn’t understand. I read academic papers, whitepapers, blog posts, most of which made no sense to me. I listened to nothing but blockchain podcasts, watched technical lectures and took notes, spun up nodes, prototyped a blockchain myself, and talked to as many blockchain experts as I could (who all knew much more than I did).
-
-I steeped myself into everything blockchain until my brain started making sense of it. And the amazing thing is that, even still, almost nobody else I met who was learning blockchain was doing this.
-
-4. Double down on your strengths.
+## 4. Double down on your strengths.
 Most people shy away from their strengths. They are convinced that they need to be an expert in something before they start blogging, or organizing events, or making Youtube videos, or making friends with influential people.
 
 This couldn’t be farther from the truth.
@@ -85,11 +75,10 @@ I have a knack for writing. So whenever I want to learn a new domain, I start bl
 
 I know so many people who are competent writers, but choose not to blog about things they don’t know well. When I ask them why not, they tell me: “I’ll blog when I have something to say that hasn’t already been said.”
 
-I laugh.
-
 Everything I say has all been said before. But today, I’m the one saying it, so anyone who wants to hear it today gets to hear it from me.
 
-5. Find excuses to teach.
+## 5. Find excuses to teach.
+
 It’s a little-known secret that in any classroom, the person learning the most about the subject is the teacher. The absolute fastest way to learn any domain is to teach it. Teaching requires you to spontaneously recall things you’ve learned, to organize and fluidly present concepts, to come up with analogies and frameworks, and to answer arbitrary questions about a topic.
 
 But you’re still an amateur yourself! How can you possibly get into a situation that you can teach?
@@ -98,11 +87,7 @@ Simple. Find the person next most clueless/junior to you and offer to teach them
 
 I would never have gotten to where I am today if I only taught things that I myself had mastered.
 
+
 ## Learning to Learn
-In the end, learning is both science and art. It is science when your domain is structured, and art when it is not.
-
-If you’re trying to learn in a structured domain, much of the best research on this topic is summarized in the book "Learning How To Learn" by Barbara Oakley. There are some good condensed class notes available here. That is the science of learning, and it’s well-understood when trying to learn something well-understood.
-
-But the art of learning is more subtle. It’s in how you explore uncharted territory. It’s how humankind learns anything for the very first time.
 
 The best learners, the people I most respect, they fight for their learning through small acts of bravery. They explore, take risks, look stupid, and insist on leaving no rocks unturned. Though I usually fall short, this is the kind of learner I aspire to be.
