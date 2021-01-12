@@ -9,7 +9,7 @@ The main enabling force which decides whether engineers will be "great" or not l
 The reasoning here is simple: software has created new ways to solve business problems, with infinite possibilites to transform data, enable communication, and influence processes. But the possibilities are still locked inside the medium of code. It requires someone with a mastery of the medium to tease out the particular solution for your exact problem. Software is a powerful force that has broken all the rules of conventional business. If your business still adheres to those old rules then it doesn't matter how skilled your engineers may be, they will always be only as effective as a plumber or an electrician. You only allow them to solve the problems that everyone already knows the solution to.
 
 
-
+###nicolas romer
 
 
 

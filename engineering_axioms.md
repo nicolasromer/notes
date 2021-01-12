@@ -1,3 +1,5 @@
+copy pasted from: https://martinrue.com/my-engineering-axioms/
+
 1. Change is constant.
 This one shouldn't be too controversial. Almost everything is always changing, including the rate of change itself. We need to acknowledge not only that our ability to respond to change is crucial, but that how well we do it (time, cost, quality, reliability) is often a dimension of our competitiveness.
 
