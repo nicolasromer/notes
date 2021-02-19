@@ -1,3 +1,7 @@
+pasted from: https://www.granolashotgun.com/granolashotguncom/2mvygaw3y67fx5bqrvno2lp452zifc
+
+#Letting Go of Nostalgia Urbanism
+
 Everyone has a natural habitat. For some people it’s a big house in the suburbs. For others it’s a cabin in the woods. Some people thrive in a high rise tower in the central business district. Mine is a Main Street town of the kind that peaked about a century ago. But there’s another more obscure environment that’s harder to define because it’s more about cultural imperatives rather than physical structures or location.
 
 A reader reached out to me with a query. He and his wife and three daughters are in search of “a slower, more nature and community bound life, but without leaving behind people who read books, et cetera. I'm forever looking for where Henry Miller's Big Sur is today, or Provincetown, or even the Upper West Side of 1960, or the San Francisco of the early 90s. We have some money, but we don't want to be around people who are money driven.”
